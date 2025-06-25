@@ -1,2 +1,2 @@
 # DevKitty-CutieCat-v1
-CutieCat Kit is a ESP32 powered DIY cat-shaped handheld hacking console
+CutieCat is a ESP32 powered DIY cat-shaped handheld hacking console
