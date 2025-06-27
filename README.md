@@ -21,8 +21,7 @@ CutieCat is a ESP32 powered DIY cat-shaped handheld hacking console
 📆 Creators Blog - 🔗 https://www.hackster.io/alexlynd/build-your-own-cat-themed-hacking-console-with-devkitty-30911c  
 ☠️ ScriptKitty Hacking - 🔗 https://github.com/DevKitty-io/ScriptKitty-Firmware  
 ☠️ Wardriver Hacking 🔗 Wardriver Firmware - https://github.com/DevKitty-io/Wardriver-Firmware/releases/tag/v0.0-240817  
+  
 🔴 🛒 Purchase Links -  CutieCat v1 - 🔗 hhttps://lyndlabs.io/products/devkitty-soldering-kit  
 
-🔴 Purchase Links -  
-🛒 CutieCat v1 - 🔗 hhttps://lyndlabs.io/products/devkitty-soldering-kit  
 -------------------------------------------------------------------------------------------------------
