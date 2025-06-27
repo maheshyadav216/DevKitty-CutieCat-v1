@@ -7,7 +7,9 @@ CutieCat is a ESP32 powered DIY cat-shaped handheld hacking console
 
 -------------------------------------------------------------------------------------------------------  
 📋 Hackster Project - 
-🔗 https://www.hackster.io/maheshyadav216/cutiecat-esp32-based-hacking-console-with-a-feline-twist-e4bc2f
+🔗 https://www.hackster.io/maheshyadav216/cutiecat-esp32-based-hacking-console-with-a-feline-twist-e4bc2f  
+
+🎞️ CutieCat🐱: ESP32-Based Hacking Console with a Feline Twist - https://youtu.be/Qm76O2E23K0  
 
 💼 Project Repository - Code, Circuit Diagrams, Documents etc. 📚
 🔗 https://github.com/maheshyadav216/DevKitty-CutieCat-v1
