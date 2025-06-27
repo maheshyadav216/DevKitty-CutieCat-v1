@@ -15,6 +15,7 @@ CutieCat is a ESP32 powered DIY cat-shaped handheld hacking console
 -------------------------------------------------------------------------------------------------------  
 
 📒 Important Links  
+  
 📋 Documentation - 🔗 https://devkitty.io/docs/get-started/introduction/  
 📦 GitHub Repo of DevKitty -🔗 https://github.com/DevKitty-io  
 🛠 WebFlasher Tool - 🔗 https://devkitty-io.github.io/Web-Flasher/  
