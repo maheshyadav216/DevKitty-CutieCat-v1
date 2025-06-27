@@ -14,15 +14,14 @@ CutieCat is a ESP32 powered DIY cat-shaped handheld hacking console
 
 -------------------------------------------------------------------------------------------------------  
 
-📒 Important Links
-📋 Documentation - 🔗 https://devkitty.io/docs/get-started/introduction/
-📦 GitHub Repo of DevKitty -🔗 https://github.com/DevKitty-io
-🛠 WebFlasher Tool - 🔗 https://devkitty-io.github.io/Web-Flasher/
-📆 Creators Blog - 🔗 https://www.hackster.io/alexlynd/build-your-own-cat-themed-hacking-console-with-devkitty-30911c
-☠️ ScriptKitty Hacking - 🔗 https://github.com/DevKitty-io/ScriptKitty-Firmware
-☠️ Wardriver Hacking 🔗 Wardriver Firmware - https://github.com/DevKitty-io/Wardriver-Firmware/releases/tag/v0.0-240817
+📒 Important Links  
+📋 Documentation - 🔗 https://devkitty.io/docs/get-started/introduction/  
+📦 GitHub Repo of DevKitty -🔗 https://github.com/DevKitty-io  
+🛠 WebFlasher Tool - 🔗 https://devkitty-io.github.io/Web-Flasher/  
+📆 Creators Blog - 🔗 https://www.hackster.io/alexlynd/build-your-own-cat-themed-hacking-console-with-devkitty-30911c  
+☠️ ScriptKitty Hacking - 🔗 https://github.com/DevKitty-io/ScriptKitty-Firmware  
+☠️ Wardriver Hacking 🔗 Wardriver Firmware - https://github.com/DevKitty-io/Wardriver-Firmware/releases/tag/v0.0-240817  
 
-🔴 Purchase Links -
-
-🛒 CutieCat v1 - 🔗 hhttps://lyndlabs.io/products/devkitty-soldering-kit
+🔴 Purchase Links -  
+🛒 CutieCat v1 - 🔗 hhttps://lyndlabs.io/products/devkitty-soldering-kit  
 -------------------------------------------------------------------------------------------------------
